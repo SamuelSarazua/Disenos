@@ -1,0 +1,12 @@
+.images {
+    display: flex;
+    flex-direction: column;
+}
+
+.images img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    position: sticky;
+    top: 0;
+}
